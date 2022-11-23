@@ -14,9 +14,9 @@
 
 ### EtherCAT Design Tool (EDT)
 
-- [EDT production](https://oblac-edt.synapticon.com)
+- [EDT](https://oblac-edt.synapticon.com)
 - [EDT staging](https://oblac-edt-staging.synapticon.com)
-- [ecatapi production](https://ecatapi.synapticon.com)
+- [ecatapi](https://ecatapi.synapticon.com)
 - [ecatapi staging](https://ecatapi-staging.synapticon.com)
 - [CANopen profiles](https://canopen-profiles.synapticon.com)
 
@@ -27,3 +27,30 @@
 - [Prototype Inventory App (PMA): App for tracking internal prototypes, project meterials and equipment](https://inventory.synapticon.com)
 - [Prototype Inventory App (PMA): "PMA" application build packages](https://s3.amazonaws.com/pma-mobile/index.html)
 - [RoboYagi: Web application &amp; REST API](http://robw.elasticbeanstalk.com)
+
+## Unsorted
+
+- [Amazon Web Services](https://synapticon.signin.aws.amazon.com/console)
+
+---
+
+- [Jenkins](https://ci2.synapticon.com)
+- [Jenkins OLD](https://ci.synapticon.com)
+
+---
+
+- [Components Availability Checker OAuth](https://components-availability-checker.synapticon.com)
+
+---
+
+- [Synapticon Account](https://account.synapticon.com)
+
+---
+
+- [Slack](https://synapticon.slack.com)
+
+---
+
+- [Documentation](https://doc.synapticon.com)
+- [Documentation Staging](https://doc-staging.synapticon.com)
+- [Internal Wiki](https://sncn-wiki.synapticon.com)
