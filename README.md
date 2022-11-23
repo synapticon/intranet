@@ -31,26 +31,21 @@
 ## Unsorted
 
 - [Amazon Web Services](https://synapticon.signin.aws.amazon.com/console)
+- [Slack](https://synapticon.slack.com)
+- [Wrike](https://www.wrike.com)
 
 ---
 
 - [Jenkins](https://ci2.synapticon.com)
 - [Jenkins OLD](https://ci.synapticon.com)
-
----
-
 - [Components Availability Checker OAuth](https://components-availability-checker.synapticon.com)
-
----
-
-- [Synapticon Account](https://account.synapticon.com)
-
----
-
-- [Slack](https://synapticon.slack.com)
 
 ---
 
 - [Documentation](https://doc.synapticon.com)
 - [Documentation Staging](https://doc-staging.synapticon.com)
 - [Internal Wiki](https://sncn-wiki.synapticon.com)
+
+---
+
+- [Synapticon Account](https://account.synapticon.com)
