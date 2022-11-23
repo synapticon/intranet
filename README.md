@@ -6,7 +6,7 @@
 
 - [OBLAC Bundles](https://bundles.synapticon.com)
 - [OBLAC Box Update Service (Mender)](https://oblac-box-update-service.synapticon.com)
-- [List of OBLAC Drive VMs](http://oblac-drives.s3-website-us-east-1.amazonaws.com)
+- [OBLAC Drives Virtual Machines](http://oblac-drives.s3-website-us-east-1.amazonaws.com)
 - [oblac-drives-releases.json](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-releases.json)
 - [oblac-drives-development-releases.json](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-development-releases.json)
 - [Config Reader](https://config-reader.synapticon.com)
