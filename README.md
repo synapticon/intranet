@@ -33,11 +33,13 @@
 - [Amazon Web Services](https://synapticon.signin.aws.amazon.com/console)
 - [Slack](https://synapticon.slack.com)
 - [Wrike](https://www.wrike.com)
+- [Synapticon Signature](https://signature.synapticon.com)
 
 ---
 
 - [Jenkins](https://ci2.synapticon.com)
 - [Jenkins OLD](https://ci.synapticon.com)
+- [SVN](https://svn.synapticon.com)
 - [Components Availability Checker OAuth](https://components-availability-checker.synapticon.com)
 
 ---
