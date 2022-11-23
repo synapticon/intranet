@@ -1,25 +1,27 @@
 # intranet
 
-## Tools: OBLAC Drives, EDT, PMA
+## OBLAC
 
 ### OBLAC Drives
 
-- [OBLAC Drives Box Update Service (Mender)](https://oblac-box-update-service.synapticon.com)
-- [OBLAC Drives VM downloads (releases + development versions)](http://oblac-drives.s3-website-us-east-1.amazonaws.com)
-- [OBLAC Drives Production Releases JSON](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-releases.json)
-- [OBLAC Drives Development Releases JSON](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-development-releases.json)
+- [OBLAC Bundles](https://bundles.synapticon.com)
+- [OBLAC Box Update Service (Mender)](https://oblac-box-update-service.synapticon.com)
+- [List of OBLAC Drive VMs](http://oblac-drives.s3-website-us-east-1.amazonaws.com)
+- [oblac-drives-releases.json](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-releases.json)
+- [oblac-drives-development-releases.json](https://s3.amazonaws.com/synapticon/oblac-drives/oblac-drives-development-releases.json)
+- [Config Reader](https://config-reader.synapticon.com)
+- [Motion Master Console](https://motion-master-console.web.app)
 
 ### EtherCAT Design Tool (EDT)
 
-- [OBLAC EtherCAT Design Tool (EDT): Tool for managing ESI files and generating source code](https://oblac-edt.synapticon.com)
-- [Catalog of CANopen profiles](https://canopen-profiles.synapticon.com)
-- [OBLAC IDE](https://oblac.synapticon.com)
-- [Synapticon Account: OpenID Connect authentication and profile management](https://account.synapticon.com)
-- 
+- [EDT production](https://oblac-edt.synapticon.com)
+- [EDT staging](https://oblac-edt-staging.synapticon.com)
+- [ecatapi production](https://ecatapi.synapticon.com)
+- [ecatapi staging](https://ecatapi-staging.synapticon.com)
+- [CANopen profiles](https://canopen-profiles.synapticon.com)
 
-### Other Tools
+### Other
 
-- [OBLAC Drives Config Reader](https://config-reader.synapticon.com)
 - [System Designer](https://system-designer.synapticon.com)
 - [Inventory: Android and iOS mobile applications build packages](https://s3.amazonaws.com/synapticon-inventory-mobile/index.html)
 - [Prototype Inventory App (PMA): App for tracking internal prototypes, project meterials and equipment](https://inventory.synapticon.com)
