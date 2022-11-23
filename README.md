@@ -52,3 +52,7 @@
 ---
 
 - [Synapticon Account](https://account.synapticon.com)
+
+---
+
+© 2010-2022 Synapticon GmbH – Integrated Motion.
