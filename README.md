@@ -1,4 +1,4 @@
-# Synapticon Intranet
+# intranet
 
 ## OBLAC
 
