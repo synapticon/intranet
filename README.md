@@ -1,5 +1,22 @@
 # intranet
 
+## Web Server
+
+|    DNS A RECORD    | ELASTIC IP ADDRESS |
+|:------------------:|:------------------:|
+| web.synapticon.com |      52.4.7.59     |
+
+- [Documentation Production](https://doc.synapticon.com)
+- [Documentation Staging](https://doc-staging.synapticon.com)
+- [System Designer](https://system-designer.synapticon.com)
+- [Config Reader](https://config-reader.synapticon.com)
+- [Email Signature](https://signature.synapticon.com)
+- [OBLAC Bundles](https://bundles.synapticon.com)
+- [OBLAC EDT Production](https://oblac-edt.synapticon.com)
+- [OBLAC EDT Staging](https://oblac-edt-staging.synapticon.com)
+- [EtherCAT API (ecatapi) Production](https://ecatapi.synapticon.com)
+- [EtherCAT API (ecatapi) Production](https://ecatapi-staging.synapticon.com)
+
 ## OBLAC
 
 ### OBLAC Drives
@@ -18,23 +35,15 @@
 - [EDT staging](https://oblac-edt-staging.synapticon.com)
 - [ecatapi](https://ecatapi.synapticon.com)
 - [ecatapi staging](https://ecatapi-staging.synapticon.com)
-- [CANopen profiles](https://canopen-profiles.synapticon.com)
 
-### Other
-
-- [System Designer](https://system-designer.synapticon.com)
-- [Inventory: Android and iOS mobile applications build packages](https://s3.amazonaws.com/synapticon-inventory-mobile/index.html)
-- [Prototype Inventory App (PMA): App for tracking internal prototypes, project meterials and equipment](https://inventory.synapticon.com)
-- [Prototype Inventory App (PMA): "PMA" application build packages](https://s3.amazonaws.com/pma-mobile/index.html)
-- [RoboYagi: Web application &amp; REST API](http://robw.elasticbeanstalk.com)
-
-## Unsorted
+## Other
 
 - [GitHub](https://github.com/orgs/synapticon)
 - [Amazon Web Services](https://synapticon.signin.aws.amazon.com/console)
 - [Slack](https://synapticon.slack.com)
 - [Wrike](https://www.wrike.com)
 - [Synapticon Signature](https://signature.synapticon.com)
+- [System Designer](https://system-designer.synapticon.com)
 
 ---
 
@@ -47,11 +56,6 @@
 
 - [Documentation](https://doc.synapticon.com)
 - [Documentation Staging](https://doc-staging.synapticon.com)
-- [Internal Wiki](https://sncn-wiki.synapticon.com)
-
----
-
-- [Synapticon Account](https://account.synapticon.com)
 
 ---
 
